@@ -5,7 +5,7 @@ go 1.13
 require (
 	github.com/Shopify/sarama v1.26.4
 	github.com/VictoriaMetrics/fastcache v1.5.7
-	github.com/alecthomas/units v0.0.0-20151022065526-2efee857e7cf
+	github.com/alecthomas/units v0.0.0-20190924025748-f65c72e2690d
 	github.com/aristanetworks/goarista v0.0.0-20191001182449-186a6201b8ef
 	github.com/aws/aws-sdk-go v1.34.0
 	github.com/cespare/cp v1.0.0
@@ -17,19 +17,18 @@ require (
 	github.com/fatih/color v1.7.0
 	github.com/fjl/memsize v0.0.0-20180427083637-f6d5545993d6
 	github.com/gin-gonic/gin v1.7.0
-	github.com/go-kit/kit v0.9.0 // indirect
 	github.com/go-redis/redis/v7 v7.4.0
 	github.com/go-sql-driver/mysql v1.5.0
 	github.com/go-stack/stack v1.8.0
 	github.com/golang/mock v1.4.4
-	github.com/golang/protobuf v1.4.2
+	github.com/golang/protobuf v1.4.3
 	github.com/golang/snappy v0.0.1
 	github.com/hashicorp/golang-lru v0.5.3
 	github.com/huin/goupnp v1.0.0
 	github.com/influxdata/influxdb v1.5.2
 	github.com/jackpal/go-nat-pmp v1.0.1
 	github.com/jinzhu/gorm v1.9.15
-	github.com/julienschmidt/httprouter v1.2.0
+	github.com/julienschmidt/httprouter v1.3.0
 	github.com/mattn/go-colorable v0.1.2
 	github.com/mattn/go-runewidth v0.0.2 // indirect
 	github.com/naoina/go-stringutil v0.1.0 // indirect
@@ -41,7 +40,7 @@ require (
 	github.com/pborman/uuid v0.0.0-20170612153648-e790cca94e6c
 	github.com/peterh/liner v1.0.1-0.20180504030148-80ce870644db
 	github.com/pkg/errors v0.9.1
-	github.com/prometheus/client_golang v1.1.0
+	github.com/prometheus/client_golang v1.11.1
 	github.com/prometheus/prometheus v2.1.0+incompatible
 	github.com/prometheus/tsdb v0.10.0 // indirect
 	github.com/rcrowley/go-metrics v0.0.0-20190826022208-cac0b30c2563
