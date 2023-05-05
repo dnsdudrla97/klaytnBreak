@@ -16,13 +16,13 @@ require (
 	github.com/edsrzf/mmap-go v0.0.0-20170320065105-0bce6a688712
 	github.com/fatih/color v1.7.0
 	github.com/fjl/memsize v0.0.0-20180427083637-f6d5545993d6
-	github.com/gin-gonic/gin v1.7.0
+	github.com/gin-gonic/gin v1.9.0
 	github.com/go-kit/kit v0.9.0 // indirect
 	github.com/go-redis/redis/v7 v7.4.0
 	github.com/go-sql-driver/mysql v1.5.0
 	github.com/go-stack/stack v1.8.0
 	github.com/golang/mock v1.4.4
-	github.com/golang/protobuf v1.4.2
+	github.com/golang/protobuf v1.5.0
 	github.com/golang/snappy v0.0.1
 	github.com/hashicorp/golang-lru v0.5.3
 	github.com/huin/goupnp v1.0.0
@@ -51,18 +51,18 @@ require (
 	github.com/satori/go.uuid v1.2.0
 	github.com/steakknife/bloomfilter v0.0.0-20180922174646-6819c0d2a570
 	github.com/steakknife/hamming v0.0.0-20180906055917-c99c65617cd3 // indirect
-	github.com/stretchr/testify v1.5.1
+	github.com/stretchr/testify v1.8.1
 	github.com/syndtr/goleveldb v1.0.1-0.20200815110645-5c35d600f0ca
 	github.com/urfave/cli v1.20.0
 	github.com/valyala/fasthttp v1.16.0
 	go.uber.org/atomic v1.4.0 // indirect
 	go.uber.org/multierr v1.2.0 // indirect
 	go.uber.org/zap v1.10.0
-	golang.org/x/crypto v0.0.0-20200622213623-75b288015ac9
-	golang.org/x/net v0.0.0-20200813134508-3edf25e44fcc
-	golang.org/x/sys v0.0.0-20211025112917-711f33c9992c
+	golang.org/x/crypto v0.5.0
+	golang.org/x/net v0.7.0
+	golang.org/x/sys v0.5.0
 	google.golang.org/grpc v1.27.0
-	gopkg.in/check.v1 v1.0.0-20190902080502-41f04d3bba15
+	gopkg.in/check.v1 v1.0.0-20201130134442-10cb98267c6c
 	gopkg.in/fatih/set.v0 v0.1.0
 	gopkg.in/natefinch/npipe.v2 v2.0.0-20160621034901-c1b8fa8bdcce
 	gopkg.in/olebedev/go-duktape.v3 v3.0.0-20181125150206-ccb656ba24c2
